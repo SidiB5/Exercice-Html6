@@ -1,0 +1,60 @@
+.ligne1 {
+  width: 95%;
+  height: 50px;
+}
+.carrévert {
+  float: left;
+  background-color: green;
+  width: 80%;
+  height: 50px;
+}
+.carrébleu {
+  float: right;
+  background-color: blue;
+  width: 20%;
+  height: 50px;
+}
+.ligne2 {
+  width: 95%;
+  height: 150px;
+}
+.carrérouge{
+  float: left;
+  background-color: red;
+  width: 35%;
+  height: 150px;
+}
+.carréorange{
+  margin:auto;
+  float: left;
+  background-color: rgb(227, 98, 9);
+  width: 35%;
+  height: 75px;
+}
+.carrégris{
+  float: right;
+  background-color: rgb(149, 157, 165);
+  width: 30%;
+  height: 75px;
+  margin-top: auto;
+}
+.carréjaune{
+  float: left;
+  margin: auto;
+  width: 22%;
+  height: 75px;
+  background-color: rgb(255, 157, 0);
+}
+.carréturquoise{
+  background-color: rgb(190, 223, 255);
+  float: left;
+  width: 22%;
+  height: 75px;
+  margin: auto;
+}
+.carrécitrouille{
+  background-color: rgb(227, 98, 9);
+  float: right;
+  width: 21%;
+  height: 75px;
+}
