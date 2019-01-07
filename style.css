@@ -58,3 +58,12 @@
   width: 21%;
   height: 75px;
 }
+.ligne3 {
+  width: 95%;
+  height: 200px;
+}
+.carrébleunuit {
+  width: 95%;
+  height: 200px;
+  background-color: #2C3E50;
+}
